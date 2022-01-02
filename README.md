@@ -14,7 +14,7 @@ I'm an open-minded developer with interests in games, problem solving and optimi
 
 ## My stats:
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=yamiM0NSTER&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=yamiM0NSTER&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamiM0NSTER&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
