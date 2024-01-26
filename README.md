@@ -4,7 +4,7 @@ I'm an open-minded developer with interests in games, problem solving and optimi
 
 ## Contact:
 
-[![Discord](https://img.shields.io/badge/My%20Discord-yamiM0NSTER%234989-blue?style=for-the-badge&logo=discord)](https://discord.com/users/780520005301043211)
+[![Discord](https://img.shields.io/badge/My%20Discord-%40yamiM0NSTER-blue?style=for-the-badge&logo=discord)](https://discord.com/users/780520005301043211)
 
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-Comfy%20Cave-blue?style=for-the-badge&logo=discord)](https://discord.gg/gzqRJQKNSP)
 
